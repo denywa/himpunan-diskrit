@@ -1,7 +1,7 @@
 README.md
 setup.py
-himpunan/__init__.py
-himpunan/main.py
+himpunan_tim5/__init__.py
+himpunan_tim5/main.py
 himpunan_tim5.egg-info/PKG-INFO
 himpunan_tim5.egg-info/SOURCES.txt
 himpunan_tim5.egg-info/dependency_links.txt
