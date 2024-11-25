@@ -69,7 +69,7 @@ Proyek ini bertujuan untuk mengimplementasikan konsep dasar **himpunan** dalam b
 Library ini tersedia di PyPI dan dapat diinstal menggunakan perintah berikut:
 
 ```bash
-pip install himpunan-tim5
+pip install himpunan_tim5
 ```
 
 Setelah instalasi, Anda dapat langsung mengimpor modul dan menggunakannya:
