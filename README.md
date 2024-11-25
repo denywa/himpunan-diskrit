@@ -75,7 +75,7 @@ pip install himpunan_tim5
 Setelah instalasi, Anda dapat langsung mengimpor modul dan menggunakannya:
 
 ```python
-from himpunan_tim5 import Himpunan
+from himpunan_tim5 import *
 ```
 
 ---

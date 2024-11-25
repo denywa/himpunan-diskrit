@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: himpunan-tim5
-Version: 0.1.2
+Version: 0.1.3
 Summary: Library Python untuk implementasi teori himpunan
 Author: Deny Wahyudi Asaloei
 Description-Content-Type: text/markdown
@@ -82,7 +82,7 @@ pip install himpunan_tim5
 Setelah instalasi, Anda dapat langsung mengimpor modul dan menggunakannya:
 
 ```python
-from himpunan_tim5 import Himpunan
+from himpunan_tim5 import *
 ```
 
 ---
